@@ -1,0 +1,14 @@
+{
+  "main.css": "/movies/static/css/main.dac41f42.chunk.css",
+  "main.js": "/movies/static/js/main.02f1f094.chunk.js",
+  "main.js.map": "/movies/static/js/main.02f1f094.chunk.js.map",
+  "runtime~main.js": "/movies/static/js/runtime~main.712e9881.js",
+  "runtime~main.js.map": "/movies/static/js/runtime~main.712e9881.js.map",
+  "static/js/2.607fe365.chunk.js": "/movies/static/js/2.607fe365.chunk.js",
+  "static/js/2.607fe365.chunk.js.map": "/movies/static/js/2.607fe365.chunk.js.map",
+  "index.html": "/movies/index.html",
+  "precache-manifest.5a52b8be4d48253c8e457dcd4f0ecb9f.js": "/movies/precache-manifest.5a52b8be4d48253c8e457dcd4f0ecb9f.js",
+  "service-worker.js": "/movies/service-worker.js",
+  "static/css/main.dac41f42.chunk.css.map": "/movies/static/css/main.dac41f42.chunk.css.map",
+  "static/media/spinner.gif": "/movies/static/media/spinner.0bf993e2.gif"
+}
